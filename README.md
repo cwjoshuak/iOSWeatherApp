@@ -20,4 +20,4 @@ The application can:-
 ## Notes:
 
 1. The app is limited by the API, a 7 day daily forecast is provided as the 10 day API endpoint requires a $40 subscription.
-2. API key is included for ease of access, or create your own: https://home.openweathermap.org/api_keys
+2. API key is not included, create your own: https://home.openweathermap.org/api_keys
