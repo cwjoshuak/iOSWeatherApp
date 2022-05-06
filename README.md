@@ -1,4 +1,4 @@
-# Weather App
+# [Weather App](https://github.com/cwjoshuak/iOSWeatherApp)
 
 This is a simple weather app that utilizes the OpenWeatherMap One Call API to retrieve Hourly and Daily forecast.
 
@@ -9,7 +9,7 @@ The application can:-
 - allows user to refresh on demand
 - works based on user location
 - displays an alert if the user has denied location
-- tested and works on iPhone targetting iOS 13 and above
+- tested and works on iPhones targetting iOS 13 and above
 
 ## Screenshots
 
